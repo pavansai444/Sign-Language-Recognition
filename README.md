@@ -50,5 +50,6 @@ You can either run Jupyter notebook to go through every process and develop mode
 ![Home Sequence Diagram](https://user-images.githubusercontent.com/98742800/200654284-6de38d31-4626-44fb-86a6-12fb72aae698.jpeg)
 
 ## Usecase Diagram
-[usecasediagram.pdf](https://github.com/pavansai444/Sign-Language-Recognition/files/9964262/usecasediagram.pdf)
+
+[Use case diagram(2).pdf](https://github.com/pavansai444/Sign-Language-Recognition/files/9964571/Use.case.diagram.2.pdf)
 
