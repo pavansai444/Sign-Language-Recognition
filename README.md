@@ -24,6 +24,7 @@ pip install -r requirements.txt
 
 ## How to run
 You can either run Jupyter notebook to go through every process and develop model or use developed model and run application through terminal.
+The app can be installed using android studio by running it either in an emulator or in a mobile device.
 
 ## ScreenShots of the model running tested by different persons
 
